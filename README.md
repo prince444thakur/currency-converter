@@ -10,6 +10,10 @@ A responsive Currency Converter web application built using HTML, CSS, and JavaS
 * Responsive and user-friendly interface
 * Live exchange rate data
 
+## Screenshot
+
+![Currency Converter Screenshot](images/screenshot.png)
+
 ## Technologies Used
 
 * HTML5
@@ -24,6 +28,8 @@ A responsive Currency Converter web application built using HTML, CSS, and JavaS
 ```text
 Currency-Converter/
 │
+├── images/
+│   └── screenshot.png
 ├── index.html
 ├── style.css
 ├── app.js
